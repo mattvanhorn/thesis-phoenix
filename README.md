@@ -1,12 +1,9 @@
 # Thesis
 
-<p align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat" alt="js-standard-style"/>
-  <a href="https://semaphoreci.com/ir/thesis-phoenix"><img alt="Build Status" src="https://semaphoreci.com/api/v1/projects/0540dbb0-887a-45dd-9190-baa19b2ca9fb/816876/badge.svg"></a>
-  <br/>
-  <br/>
-</p>
+## Why is this archived?
+
+We really appreciate all the community support in the years since we first released thesis-phoenix. Our focus has shifted from Elixer/Phoenix to React Native. Feel free to fork this library and continue on its legacy if you want. 
+
 
 ## What Is Thesis?
 
